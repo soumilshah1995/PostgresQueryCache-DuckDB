@@ -2,6 +2,8 @@
 PostgresQueryCache-DuckDB
 ![output](https://github.com/user-attachments/assets/d0cf1822-4112-4b27-a6f8-f34f7d66af11)
 
+# Read more 
+https://www.linkedin.com/pulse/speed-up-your-analytics-leveraging-duckdb-lru-cache-postgresql-shah-gluse/?trackingId=fMdF1wz1SAeJBB9BpUAmpA%3D%3D
 
 # Code 
 ```
